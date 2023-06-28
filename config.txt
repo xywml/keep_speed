@@ -1,0 +1,2 @@
+https://tisu-api.speedtest.cn/api/v2/speedup/reopen?source=www
+#将此行删除，然后将请求头复制到这里
