@@ -14,7 +14,7 @@
 
 - F5刷新界面，找到reopen?source=www，下面有个请求标头，点击原始，然后把它全部复制下来。
 
-![image-20230628182935950](https://cdn.jsdelivr.net/gh/xywml/picgo_img@main/202306281835083.png)
+![image-20230628182935950](https://cdn.jsdelivr.net/gh/xywml/picgo_img@main/202306281917720.png)
 
 - 找到解压目录的config.txt,复制过去，注意删除GET这一行，复制后的config.txt的前几行应该是这样的：
 
